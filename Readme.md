@@ -37,22 +37,14 @@ and Bachelor of Technology in Mathematics and Computing from Indian Institute of
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Programming Languages and tools</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" height="40" alt="aarch64 logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
@@ -60,13 +52,28 @@ and Bachelor of Technology in Mathematics and Computing from Indian Institute of
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=scala" height="40" alt="scala logo"  />
+</div>
+
+###
+
+<h3 align="left">🛠 Dev Ops and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=tableau" height="40" alt="tableau logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -77,7 +84,12 @@ and Bachelor of Technology in Mathematics and Computing from Indian Institute of
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=qt" height="40" alt="qt logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
 </div>
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
