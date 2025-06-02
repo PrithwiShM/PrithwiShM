@@ -35,6 +35,18 @@
 and Bachelor of Technology in Mathematics and Computing from Indian Institute of Technology, Delhi, India
 </p>
 
+<p align="left">
+I am a passionate data scientist with a focus on dissecting complexes financial assets and leveraging the power of data to find profitable trends. Over the course of my career, I'm have worked on expanding my expertise in modeling information flow and statistical learning. After gaining experience in health insurance services related data analytics , I decided to pursue a role in financial services.
+</p>
+
+<p align="left">
+Lately, I joined a product company , dealing with the R&D of Communication devices and Autonomous locomotion machines.  Working within a codebase of over 10,000 lines taught me the value of modular design and object-oriented programming. During this time, I honed my skills in low-level C++ development—learning firsthand how fine-grained control leads to more efficient, reliable software. I built services for databases, encryption, video compression, AI inference, and position localization. I got to apply programming concepts like multithreading, locks, event-loop design, ownership of objects, which I had studied in theory in my undergraduate studies. More recently, I ventured into edge AI development, deploying neural networks on GPU-equipped devices. 
+</p>
+
+<p align="left">
+  Through these experiences, I realized that strong quantitative reasoning and critical thinking are core requirement across industries—not just in finance. Hence I broke the perception that, quantitative research is only done in the financial indistry. I’m now focused on building transferable skills that will prepare me for roles in robotics, quantitative trading, aerospace engineering, and beyond.
+</p>
+
 ###
 
 <h3 align="left">🛠 Programming Languages and tools</h3>
