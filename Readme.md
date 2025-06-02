@@ -64,7 +64,7 @@ and Bachelor of Technology in Mathematics and Computing from Indian Institute of
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=tableau" height="40" alt="tableau logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tableau.svg" alt="Tableau" width="40" height="40" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
