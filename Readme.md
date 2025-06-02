@@ -20,7 +20,9 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Software Developer and Researcher at Murano Corporation.<br>- 📚 I have had the studied ...<br>- ⚡ In my free time I ...</p>
+<p align="left"><br>- 🔭 I’m working as Software Development Researcher at Murano Corporation.<br>- 📚 I have studied Financial mathematics from North Carolina State University, Raleigh, NC
+and Bachelor of Technology in Mathematics and Computing from Indian Institute of Technology, Delhi, India
+</p>
 
 ###
 
@@ -58,6 +60,15 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
+###
+
+<h3 align="left">🛠 Frameworks</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=qt" height="40" alt="qt logo"  />
+</div>
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
