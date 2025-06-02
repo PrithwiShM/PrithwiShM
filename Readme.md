@@ -12,9 +12,9 @@
       alt="LinkedIn logo"
     />
   </a>
-  <a href="https://discord.com/users/maiti#0470" target="_blank">
+  <a href="https://discord.com/users/799513886998134806" target="_blank">
     <img
-      src="https://img.shields.io/badge/Discord-YourName%231234-7289DA?logo=discord&logoColor=white&style=for-the-badge"
+      src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge"
       height="25"
       alt="Discord badge"
     />
