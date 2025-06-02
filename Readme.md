@@ -5,9 +5,20 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/prithwish-maiti/" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+      height="25"
+      alt="LinkedIn logo"
+    />
+  </a>
+  <a href="https://discord.com/users/maiti#0470" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Discord-YourName%231234-7289DA?logo=discord&logoColor=white&style=for-the-badge"
+      height="25"
+      alt="Discord badge"
+    />
+  </a>
 </div>
 
 ###
@@ -50,8 +61,6 @@ and Bachelor of Technology in Mathematics and Computing from Indian Institute of
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=qt" height="40" alt="qt logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo"  />
   <img width="12" />
