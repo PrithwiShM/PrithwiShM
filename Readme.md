@@ -125,8 +125,7 @@ Thanks for checking out my Github profile.
 
 <details>
   <summary>Click here for <b>Github Stats</b>  :zap:</summary>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrithwiShM
-&show_icons=true&theme=cobalt&locale=en" alt="PrithwiShM" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrithwiShM&show_icons=true&theme=default&locale=en" alt="PrithwiShM" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrithwiShM&" alt="PrithwiShM" /></p>
 </details>
