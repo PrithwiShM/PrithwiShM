@@ -123,5 +123,10 @@ Thanks for checking out my Github profile.
 
 ###
 
-<p align="center"><a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  </a> <a href="https://www.python.org" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.r-project.org/about.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="python" width="40" height="40"/> </a></p>
+<details>
+  <summary>Click here for <b>Github Stats</b>  :zap:</summary>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryasashankgundepudi&show_icons=true&theme=cobalt&locale=en" alt="suryasashankgundepudi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryasashankgundepudi&" alt="suryasashankgundepudi" /></p>
+</details>
 
