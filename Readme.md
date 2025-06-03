@@ -52,7 +52,8 @@ Lately, I joined a product company , dealing with the R&D of Communication devic
 </p>
 
 <p align="left"> 
-  Feel free to reach out me at [prithwish.maiti99@gmail.com](mailto:prithwish.maiti99@gmail.com) for -
+  Please feel free to check out the projects in my github repositories. You can also reach out to me at 
+  <a href="mailto:prithwish.maiti99@gmail.com">prithwish.maiti99@gmail.com</a> for -
 providing comments or suggestion for any of the projects.
 Collaboration or requesting a resume.
 </p>
@@ -111,9 +112,7 @@ Collaboration or requesting a resume.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
   <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v15.0.0/icons/bloomberg.svg" height="40"  alt="Bloomberg" 
-    />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@14.12.3/icons/bloomberg.svg" height="40"  alt="Bloomberg" />
 </div>
 
 Thanks for checking out my Github profile.
