@@ -47,9 +47,19 @@ Lately, I joined a product company , dealing with the R&D of Communication devic
   Through these experiences, I realized that strong quantitative reasoning and critical thinking are core requirement across industries—not just in finance. Hence I broke the perception that, quantitative research is only done in the financial indistry. I’m now focused on building transferable skills that will prepare me for roles in robotics, quantitative trading, aerospace engineering, and beyond.
 </p>
 
+<p align="left"> 
+  Currently(as of May-June), I am exploring the Delta hedging section of Robust Risk Management and model risk, Quantitative Finance, 2013. Apart from that I am also research the application of frameworks for alpha development, one of which is quant rocket.
+</p>
+
+<p align="left"> 
+  Feel free to reach out me at [prithwish.maiti99@gmail.com](mailto:prithwish.maiti99@gmail.com) for -
+providing comments or suggestion for any of the projects.
+Collaboration or requesting a resume.
+</p>
+
 ###
 
-<h3 align="left">🛠 Programming Languages and tools</h3>
+<h3 align="left">🛠 Programming Languages </h3>
 
 ###
 
@@ -57,8 +67,6 @@ Lately, I joined a product company , dealing with the R&D of Communication devic
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -82,6 +90,8 @@ Lately, I joined a product company , dealing with the R&D of Communication devic
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
@@ -100,7 +110,13 @@ Lately, I joined a product company , dealing with the R&D of Communication devic
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v15.0.0/icons/bloomberg.svg" height="40"  alt="Bloomberg" 
+    />
 </div>
+
+Thanks for checking out my Github profile.
 
 ###
 
