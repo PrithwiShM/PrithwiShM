@@ -56,6 +56,7 @@ Lately, I joined a product company , dealing with the R&D of Communication devic
   <a href="mailto:prithwish.maiti99@gmail.com">prithwish.maiti99@gmail.com</a> for -
 providing comments or suggestion for any of the projects.
 Collaboration or requesting a resume.
+Also considder checkking out my webpage - [here](https://prithwishm.github.io/)
 </p>
 
 ###
