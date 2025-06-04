@@ -36,27 +36,26 @@ and Bachelor of Technology in Mathematics and Computing from Indian Institute of
 </p>
 
 <p align="left">
-I am a passionate data scientist with a focus on dissecting complexes financial assets and leveraging the power of data to find profitable trends. Over the course of my career, I'm have worked on expanding my expertise in modeling information flow and statistical learning. After gaining experience in health insurance services related data analytics , I decided to pursue a role in financial services.
+I am a passionate quantitative researcher with a focus on dissecting complexes financial assets and leveraging the power of data to find profitable trends. Over the course of my career, I'm have worked on expanding my expertise in modeling information flow and statistical learning. After gaining experience in health insurance related data analytics services, I decided to pursue a role in financial services.
 </p>
 
 <p align="left">
-Lately, I joined a product company , dealing with the R&D of Communication devices and Autonomous locomotion machines.  Working within a codebase of over 10,000 lines taught me the value of modular design and object-oriented programming. During this time, I honed my skills in low-level C++ development—learning firsthand how fine-grained control leads to more efficient, reliable software. I built services for databases, encryption, video compression, AI inference, and position localization. I got to apply programming concepts like multithreading, locks, event-loop design, ownership of objects, which I had studied in theory in my undergraduate studies. More recently, I ventured into edge AI development, deploying neural networks on GPU-equipped devices. 
+Lately, I joined a product company , dealing with the R&D of Communication devices and Autonomous locomotion machines.  Working within a codebase of over 10,000 lines taught me the value of modular design and object-oriented programming. During this time, I honed my skills in low-level C++ development—learning firsthand how fine-grained control leads to more efficient, reliable software. I have built services for databases, encryption, video compression, AI inference, and position localization. I also got the opportnity to apply programming concepts like multithreading, locks, event-loop design, ownership of objects, which I had studied in theory in my undergraduate studies. More recently, I ventured into edge AI development, deploying neural networks on GPU-equipped devices. 
 </p>
 
 <p align="left">
-  Through these experiences, I realized that strong quantitative reasoning and critical thinking are core requirement across industries—not just in finance. Hence I broke the perception that, quantitative research is only done in the financial indistry. I’m now focused on building transferable skills that will prepare me for roles in robotics, quantitative trading, aerospace engineering, and beyond.
+  Through these experiences, I realized that strong reasoning skill, both qualitiative and quantitative, and critical thinking are core requirement across industries—not just in finance. Hence I broke the perception that, quantitative research is only done in the financial indistry. I’m now focused on building transferable skills that will prepare me for roles in robotics, quantitative trading, aerospace engineering, and beyond.
 </p>
 
 <p align="left"> 
-  Currently(as of May-June), I am exploring the Delta hedging section of Robust Risk Management and model risk, Quantitative Finance, 2013. Apart from that I am also research the application of frameworks for alpha development, one of which is quant rocket.
+  Currently(as of May-June), I am exploring the Delta hedging section of Robust Risk Management and model risk, Quantitative Finance, 2013. Apart from that I am also researching the applications of frameworks for alpha development, one of which is quant rocket.
 </p>
 
 <p align="left"> 
   Please feel free to check out the projects in my github repositories. You can also reach out to me at 
   <a href="mailto:prithwish.maiti99@gmail.com">prithwish.maiti99@gmail.com</a> for -
-providing comments or suggestion for any of the projects.
-Collaboration or requesting a resume.
-Also considder checkking out my webpage - [here](https://prithwishm.github.io/)
+providing comments or suggestion for any of the projects, collaboration or requesting a resume.
+Also consider checking out my webpage -  <a href="https://prithwishm.github.io/">here</a>
 </p>
 
 ###
