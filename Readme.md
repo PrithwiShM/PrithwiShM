@@ -111,8 +111,6 @@ Also consider checking out my webpage -  <a href="https://prithwishm.github.io/"
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@14.12.3/icons/bloomberg.svg" height="40"  alt="Bloomberg" />
 </div>
 
 Thanks for checking out my Github profile.
