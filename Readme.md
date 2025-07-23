@@ -44,7 +44,7 @@ Lately, I joined a product company , dealing with the R&D of Communication devic
 </p>
 
 <p align="left">
-  Through these experiences, I realized that strong reasoning skill, both qualitiative and quantitative, and critical thinking are core requirement across industries—not just in finance. Hence I broke the perception that, quantitative research is only done in the financial indistry. I’m now focused on building transferable skills that will prepare me for roles in robotics, quantitative trading, aerospace engineering, and beyond.
+  Through these experiences, I realized that strong reasoning skill, both qualitiative and quantitative, and critical thinking are core requirement across industries—not just in finance. Hence I broke the perception that, quantitative research is only done in the financial industry. I’m now focused on building transferable skills that will prepare me for roles in robotics, quantitative trading, aerospace engineering, and beyond.
 </p>
 
 <p align="left"> 
