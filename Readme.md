@@ -40,7 +40,7 @@ I am a passionate quantitative researcher with a focus on dissecting complexes f
 </p>
 
 <p align="left">
-Lately, I joined a product company , dealing with the R&D of Communication devices and Autonomous locomotion machines.  Working within a codebase of over 10,000 lines taught me the value of modular design and object-oriented programming. During this time, I honed my skills in low-level C++ development—learning firsthand how fine-grained control leads to more efficient, reliable software. I have built services for databases, encryption, video compression, AI inference, and position localization. I also got the opportnity to apply programming concepts like multithreading, locks, event-loop design, ownership of objects, which I had studied in theory in my undergraduate studies. More recently, I ventured into edge AI development, deploying neural networks on GPU-equipped devices. 
+Lately, I joined a hardware product company , dealing with the R&D of Communication devices and Autonomous locomotion machines. Working within a codebase of over 10,000 lines taught me the value of modular design and object-oriented programming. During this time, I honed my skills in low-level C++ development—learning firsthand how fine-grained control leads to more efficient, reliable software. I have built services for databases, encryption, video compression, AI inference, and position localization. I also got the opportnity to apply programming concepts like multithreading, locks, event-loop design, ownership of objects, which I had studied in theory in my undergraduate studies. More recently, I ventured into edge AI development, deploying neural networks on GPU-equipped devices. 
 </p>
 
 <p align="left">
@@ -48,7 +48,7 @@ Lately, I joined a product company , dealing with the R&D of Communication devic
 </p>
 
 <p align="left"> 
-  Currently(as of May-June), I am exploring the Delta hedging section of Robust Risk Management and model risk, Quantitative Finance, 2013. Apart from that I am also researching the applications of frameworks for alpha development, one of which is quant rocket.
+  Currently(as of May-June), I am exploring the Delta hedging section of Robust Risk Management and model risk - Paul Glasserman, Quantitative Finance, 2013. Apart from that I am also researching the applications of frameworks for alpha development, one of which is quant rocket.
 </p>
 
 <p align="left"> 
